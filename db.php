@@ -1,4 +1,6 @@
 <?php
+session_start();
+
 /* conexion a la base de datos */
 
 $hostname = 'localhost';
